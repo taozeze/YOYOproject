@@ -1,0 +1,5 @@
+Quaternion calculation/conversion in R, for later use
+http://stackoverflow.com/questions/19239482/using-quaternion-instead-of-roll-pitch-and-yaw-to-track-device-motion
+
+Basic info on Quaternion, for later use
+https://keithp.com/blogs/Quaternions/
