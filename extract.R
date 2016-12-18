@@ -1,3 +1,5 @@
+#By @Edward
+
 normal <- read.csv("2016-12-15_12-00-36.csv", header = TRUE, stringsAsFactors = FALSE)
 export <- read.csv("2016-12-15_12-00-32.csv", header = TRUE, stringsAsFactors = FALSE)
 par(mfrow=c(2,2))

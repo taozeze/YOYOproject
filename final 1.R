@@ -1,3 +1,6 @@
+#@by XiaoYue
+
+
 setwd("~/Nino Zhang/study at TC/fall 2016/EDM/final project")
 small <- read.csv("2016-12-15_12-00-32.csv", header = TRUE, stringsAsFactors = FALSE)
 small$ID <- "0"
